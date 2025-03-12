@@ -3,17 +3,17 @@
 
 This tool aids in helping you turn your gobbledygook telegram JSON backup into something readable in a TXT file format!
 
-**NOTE: This program saves ALL of your messages from ALL of your chats.** You may need to scroll down to the very bottom of the output file and delete all messages after the point in which you and the other person convorsate. It should look like the following:
-From you: afga <br />
-From them: asfhg <br />
-From them: hdfsdfh <br />
-From you: sdeff <br />
-`from this point on, your chat and the other person ends.` <br />
-From you: asdcasfas <br />
-From you: asfwhr <br />
-From you: asgwhs <br />
-From you: awgfwsd <br />
-From you: eswdhgshd <br />
+**NOTE: This program saves ALL of your messages from ALL of your chats.** You may need to scroll down to the very bottom of the output file and delete all messages after the point in which you and the other person convorsate. It should look like the following: <br />
+> From you: afga <br />
+> From them: asfhg <br />
+> From them: hdfsdfh <br />
+> From you: sdeff <br />
+> `from this point on, your chat and the other person ends.` <br />
+> From you: asdcasfas <br />
+> From you: asfwhr <br />
+> From you: asgwhs <br />
+> From you: awgfwsd <br />
+> From you: eswdhgshd <br />
 
 Here are the features of this program as of 3-11-2025:
 
