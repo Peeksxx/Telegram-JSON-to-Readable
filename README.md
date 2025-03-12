@@ -29,8 +29,8 @@ Here are the features of this program as of 3-11-2025:
 1. Save your telegram data! Do this by navigating to the following in the desktop app:
 > `Navigate to Telegram Desktop` --> `Go to your Telegram settings` --> `Press on the "Advanced" tab` --> `Scroll down till you see "Export Telegram Data" and click on it` --> `Make sure you check the box to download "Machine-readable JSON"` --> `Export it!`
 2. Gather the UserIDs of the people you'd like to save the messages from. If it's just for you and one other person's chat, then copy their UserID and your UserID. 
-> UserIDs can be found in the JSON code saved by telegram.  Your UserID should look like the following: `"User0123456789"`. You can put these into a temporary text file for now.
->  ![Image](https://github.com/user-attachments/assets/ae24b9ee-4b32-47f4-8edb-a2acfa6b1823)
+> UserIDs can be found in the JSON code saved by telegram.  Your UserID should look like the following: `"User0123456789"`. You can put these into a temporary text file for now. <br />
+>  ![Image](https://github.com/user-attachments/assets/ae24b9ee-4b32-47f4-8edb-a2acfa6b1823) <br />
 >  **Useful tip:** You can load the .json file into your the Windows Note Pad app and press `ctrl+f` to show the find prompt. Then, simply type in your Telegram name to find messages sent by you!
 3. Create a folder containing the following files:
 	> result.json (The file containing telegram message data)
