@@ -32,9 +32,9 @@ Here are the features of this program as of 3-11-2025:
 > UserIDs can be found in the JSON code saved by telegram.  Your UserID should look like the following: `"User0123456789"`. You can put these into a temporary text file for now. <br />
 >  ![Image](https://github.com/user-attachments/assets/ae24b9ee-4b32-47f4-8edb-a2acfa6b1823) <br />
 >  **Useful tip:** You can load the .json file into your the Windows Note Pad app and press `ctrl+f` to show the find prompt. Then, simply type in your Telegram name to find messages sent by you!
-3. Create a folder containing the following files:
-	> result.json (The file containing telegram message data)
-	> JSONtoTXT.py (Python file downloaded from this repository)
+3. Create a folder containing the following files: <br />
+	> result.json (The file containing telegram message data) <br />
+	> JSONtoTXT.py (Python file downloaded from this repository) <br />
 4. Open a Command Prompt by right-clicking inside of the folder and selecting "Open in Terminal".
 	> **Note:** If that doesn't work, simply open the command prompt via Windows Search and type in the following command: `cd \path\of\your\folder\`.
 5. Once you have a terminal open in your folder's directory, double check the result file is named **exactly** "result.json". Finally, run the Python code by typing in the following command: `python '.\JSONtoTXT.py'`.
