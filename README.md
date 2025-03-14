@@ -22,6 +22,7 @@ Here are the features of this program as of 3-11-2025:
 # Requirements?
 
 - Have [python 3](https://www.python.org/downloads/) installed. You can check if you already do by executing `python --version` in your command prompt. If it returns with a version, you have it. If it gives you an error, you don't!
+  > Remember to check the box "Install to PATH" during installation, or this won't work!
 - This program has only been tested on Windows 10/11 machines.
 
 # How to run?
